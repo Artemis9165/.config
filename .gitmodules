@@ -10,3 +10,6 @@
 [submodule "dunst"]
 	path = dunst
 	url = https://github.com/Artemis9165/dunst.git
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/Artemis9165/nvim.git
