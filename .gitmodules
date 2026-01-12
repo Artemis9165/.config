@@ -16,3 +16,6 @@
 [submodule "fastfetch"]
 	path = fastfetch
 	url = https://github.com/Artemis9165/fastfetch.git
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/Artemis9165/tmux.git
